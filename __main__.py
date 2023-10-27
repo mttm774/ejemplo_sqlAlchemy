@@ -45,6 +45,8 @@ def actualizar_actor():
 
     session.commit()
     session.close()
+
+    #https://github.com/auth0-blog/sqlalchemy-orm-tutorial/blob/master/examples/basic/__main__.py
     
 
 
